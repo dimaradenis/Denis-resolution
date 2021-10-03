@@ -3,7 +3,9 @@ RENCANA KONTEN DENIS
 JAVA SCRIPT 
 *ES6
 *Framework Javascript
-struktur data
+^angular
+^react
 PHP
+^laravel
 INTERVIEW
 VLOGS
