@@ -4,6 +4,7 @@ JAVA SCRIPT
 *ES6
 *Framework Javascript
   ^vue
+  ^react
 struktur data
 PHP
 ^laravel
